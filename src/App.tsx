@@ -1,5 +1,5 @@
 import './App.css'
-import { TermList } from './TermList'
+import { TermList } from './TermList.tsx'
 
 function App() {
   return (
